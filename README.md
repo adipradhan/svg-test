@@ -2,4 +2,4 @@
 
 SVG test below
 
-![](/images/test.svg)
+![](/images/image.svg)
